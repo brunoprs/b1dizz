@@ -2,9 +2,9 @@
 
 🔭 Estudando Sistemas da Informação - UMC 
 
-🔭 Formação em C#
+🔭 Formação em DevOps | AWS Cloud
 
-🤔 Estou procurando uma oportunidade para começar minha jornada de programação como desenvolvedor júnior
+🤔 Estou procurando uma oportunidade para começar minha jornada de Devops.
 
 📫 Como entrar em contato comigo:
 
